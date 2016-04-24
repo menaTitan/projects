@@ -1,0 +1,6 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\Invoice\Invoice\obj\Debug\Invoice.pdb

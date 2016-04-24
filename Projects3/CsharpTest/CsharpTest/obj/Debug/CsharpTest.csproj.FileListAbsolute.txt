@@ -1,0 +1,6 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CsharpTest\CsharpTest\bin\Debug\CsharpTest.exe.config
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CsharpTest\CsharpTest\bin\Debug\CsharpTest.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CsharpTest\CsharpTest\bin\Debug\CsharpTest.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CsharpTest\CsharpTest\obj\Debug\CsharpTest.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CsharpTest\CsharpTest\obj\Debug\CsharpTest.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CsharpTest\CsharpTest\obj\Debug\CsharpTest.pdb

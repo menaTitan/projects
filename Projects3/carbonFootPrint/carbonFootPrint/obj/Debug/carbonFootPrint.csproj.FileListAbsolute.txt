@@ -1,0 +1,6 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\carbonFootPrint\carbonFootPrint\bin\Debug\carbonFootPrint.exe.config
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\carbonFootPrint\carbonFootPrint\bin\Debug\carbonFootPrint.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\carbonFootPrint\carbonFootPrint\bin\Debug\carbonFootPrint.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\carbonFootPrint\carbonFootPrint\obj\Debug\carbonFootPrint.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\carbonFootPrint\carbonFootPrint\obj\Debug\carbonFootPrint.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\carbonFootPrint\carbonFootPrint\obj\Debug\carbonFootPrint.pdb

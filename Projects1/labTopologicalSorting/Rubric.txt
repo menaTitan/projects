@@ -1,0 +1,20 @@
+Points      Item
+----------  --------------------------------------------------------------
+____10_ / 10  Documentation:
+            + All source code files (.h & .cpp) include file name, author, description etc. 
+            + Functions and variables
+            + All non-trival variables are commented 
+            + All functions preceded by brief comments 
+            + Comments included before major portions of code 
+            + Functions should be no longer than 1 page
+__10___ /     Compiles and runs in Visual Studio and on ranger
+            Requirements met:
+___20__ / 20  + Digraph class with appropriate methods and data members
+___40__ / 40  + Topological sort gives correct results
+__8___ /  8  + Test file(s) [that you made]
+__2___ /  2  Completed rubric
+
+_____ / 80  Total
+
+
+__20___ Approximate number of hours spent

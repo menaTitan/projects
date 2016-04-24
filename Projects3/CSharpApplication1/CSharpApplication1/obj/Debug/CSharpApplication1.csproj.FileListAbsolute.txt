@@ -1,0 +1,6 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CSharpApplication1\CSharpApplication1\bin\Debug\CSharpApplication1.exe.config
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CSharpApplication1\CSharpApplication1\bin\Debug\CSharpApplication1.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CSharpApplication1\CSharpApplication1\bin\Debug\CSharpApplication1.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CSharpApplication1\CSharpApplication1\obj\Debug\CSharpApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CSharpApplication1\CSharpApplication1\obj\Debug\CSharpApplication1.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\CSharpApplication1\CSharpApplication1\obj\Debug\CSharpApplication1.pdb

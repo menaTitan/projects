@@ -1,0 +1,17 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\bin\Debug\shoppingCal.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\bin\Debug\shoppingCal.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\bin\Debug\shoppingCal.shoppingCal.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\bin\Debug\shoppingCal.shoppingCal-Signed.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\shoppingCal.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\shoppingCal.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\shoppingCal.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\android\bin\shoppingCal.shoppingCal.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\res\layout-normal\main.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\res\layout-large\main.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\res\layout\main.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\res\values\strings.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\res\drawable\icon.png
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\R.cs.flag
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\uploadflags.txt
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\shoppingCal.dll.mdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\bin\Debug\shoppingCal.dll.mdb

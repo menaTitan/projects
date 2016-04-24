@@ -1,0 +1,21 @@
+Points      Item
+----------  --------------------------------------------------------------
+__10___ / 10  Documentation:
+            + All source code files (.h & .cpp) include file name, author, description etc. 
+            + Functions and variables
+            + All non-trival variables are commented 
+            + All functions preceded by brief comments 
+            + Comments included before major portions of code 
+            + Functions should be no longer than 1 page
+__10___ /     Compiles and runs in Visual Studio and on ranger
+__45__ / 45  Requirements met:
+___25__ /     + HashTable class (25 points)
+__20___ /     + Hash function (20 points)
+__41___ / 43  Correct output (matches the format of the example & demonstrates correct execution)
+___25__ /     + Load factor (25 points)
+____2_ /  2  Completed rubric (estimates for each line including hours spent)
+	    
+___98__ /100  Total
+
+_15____  Approximate number of hours spent
+      

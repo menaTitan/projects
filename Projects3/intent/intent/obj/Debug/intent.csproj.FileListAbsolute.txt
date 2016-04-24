@@ -1,0 +1,15 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\bin\Debug\intent.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\bin\Debug\intent.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\bin\Debug\intent.intent.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\bin\Debug\intent.intent-Signed.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\intent.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\intent.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\intent.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\android\bin\intent.intent.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\res\layout\main.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\res\values\strings.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\res\drawable\icon.png
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\R.cs.flag
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\uploadflags.txt
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\obj\Debug\intent.dll.mdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\intent\intent\bin\Debug\intent.dll.mdb

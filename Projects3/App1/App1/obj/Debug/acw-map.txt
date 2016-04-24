@@ -1,0 +1,8 @@
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.myListViewAdapter, App1;md5579855c995bdb073d8182511e793544c.myListViewAdapter
+App1.myListViewAdapter, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.myListViewAdapter
+App1.myListViewAdapter;md5579855c995bdb073d8182511e793544c.myListViewAdapter
+app1.myListViewAdapter;md5579855c995bdb073d8182511e793544c.myListViewAdapter

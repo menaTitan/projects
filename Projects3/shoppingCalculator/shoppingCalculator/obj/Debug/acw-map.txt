@@ -1,0 +1,8 @@
+shoppingCalculator.MainActivity, shoppingCalculator;md5fe1be554c78ea8f3263cd89cb0a2601e.MainActivity
+shoppingCalculator.MainActivity, shoppingCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fe1be554c78ea8f3263cd89cb0a2601e.MainActivity
+shoppingCalculator.MainActivity;md5fe1be554c78ea8f3263cd89cb0a2601e.MainActivity
+shoppingcalculator.MainActivity;md5fe1be554c78ea8f3263cd89cb0a2601e.MainActivity
+shoppingCalculator.Resources.fragment, shoppingCalculator;md5ecc07ea2e4c2a347f81007a53cd1cbbf.fragment
+shoppingCalculator.Resources.fragment, shoppingCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecc07ea2e4c2a347f81007a53cd1cbbf.fragment
+shoppingCalculator.Resources.fragment;md5ecc07ea2e4c2a347f81007a53cd1cbbf.fragment
+shoppingcalculator.resources.fragment;md5ecc07ea2e4c2a347f81007a53cd1cbbf.fragment

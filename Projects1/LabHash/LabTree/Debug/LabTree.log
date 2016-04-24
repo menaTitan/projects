@@ -1,0 +1,51 @@
+﻿Build started 10/30/2015 1:25:16 PM.
+     1>Project "C:\Users\Mena\Documents\Visual Studio 2012\Projects\LabHash\LabTree\LabTree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AA.cpp DNA.cpp "labHashing-main.cpp" RNA.cpp sequence.cpp sequenceDatabase.cpp
+         sequenceDatabase.cpp
+     1>c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\hashtable.h(110): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+                 c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\hashtable.h(100) : while compiling class template member function 'unsigned int HashTable<T>::HashFunction(std::string)'
+                 with
+                 [
+                     T=sequence
+                 ]
+                 c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\hashtable.h(82) : see reference to function template instantiation 'unsigned int HashTable<T>::HashFunction(std::string)' being compiled
+                 with
+                 [
+                     T=sequence
+                 ]
+                 c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\hashtable.h(47) : while compiling class template member function 'HashTable<T>::HashTable(int)'
+                 with
+                 [
+                     T=sequence
+                 ]
+                 c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\sequencedatabase.cpp(47) : see reference to function template instantiation 'HashTable<T>::HashTable(int)' being compiled
+                 with
+                 [
+                     T=sequence
+                 ]
+                 c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\sequencedatabase.cpp(47) : see reference to class template instantiation 'HashTable<T>' being compiled
+                 with
+                 [
+                     T=sequence
+                 ]
+         sequence.cpp
+         RNA.cpp
+         labHashing-main.cpp
+         DNA.cpp
+         AA.cpp
+         Generating Code...
+     1>c:\users\mena\documents\visual studio 2012\projects\labhash\labtree\rna.cpp(39): warning C4715: 'RNA::getRna' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mena\Documents\Visual Studio 2012\Projects\LabHash\Debug\LabTree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mena\Documents\Visual Studio 2012\Projects\LabHash\Debug\LabTree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mena\Documents\Visual Studio 2012\Projects\LabHash\Debug\LabTree.lib" /MACHINE:X86 Debug\AA.obj
+         Debug\DNA.obj
+         "Debug\labHashing-main.obj"
+         Debug\RNA.obj
+         Debug\sequence.obj
+         Debug\sequenceDatabase.obj
+         LabTree.vcxproj -> C:\Users\Mena\Documents\Visual Studio 2012\Projects\LabHash\Debug\LabTree.exe
+     1>Done Building Project "C:\Users\Mena\Documents\Visual Studio 2012\Projects\LabHash\LabTree\LabTree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.99

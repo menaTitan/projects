@@ -1,0 +1,21 @@
+Points       Item
+-----------  --------------------------------------------------------------
+_____ /  10  Documentation (applies to new and modified files):
+             All source code files (.h & .cpp) include file name, author, description etc.
+             Functions and variables
+             + All non-trival variables are commented
+             + All functions preceded by brief comments
+             + Comments included before major portions of code
+             + Functions should be no longer than 1 page
+_____ /      Requirements met:
+             + SequenceTree class
+               * Recursive methods (with base case(s) commented)
+             + SequenceTreeNode struct or class
+             + etc.
+_____ /      Compiles and runs in Visual Studio and on ranger
+_____ /      Correct output (matches the format of the example & demonstrates correct execution)
+_____ /   2  Completed rubric (estimates for each line including hours spent)
+	    
+_____ /      Total
+
+_20____   Approximate number of hours spent

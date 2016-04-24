@@ -1,0 +1,22 @@
+O	acgc
+P	acgc
+S
+D	CISY_EMENI_1	011	acga	4	-1
+S
+D	CISY_EMENI_2	012	acgc	4	-1
+S
+D	CISY_EMENI_3	013	acg	3	-1
+R	CISY_EMENI	117	acuaguu	7	mRNA
+A	CISY_EMENI	217	MEF	3	1
+P	acga
+P	acg
+P	acuaguu
+P	MEF
+S
+Q	ac
+T
+O	acgc
+O	acga
+O	acg
+O	acuaguu
+S

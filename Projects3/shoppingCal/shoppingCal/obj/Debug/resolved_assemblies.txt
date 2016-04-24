@@ -1,0 +1,9 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\shoppingCal.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\System.Core.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\System.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\shoppingCal\shoppingCal\obj\Debug\assemblies\System.ServiceModel.Internals.dll

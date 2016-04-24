@@ -1,0 +1,4 @@
+shoppingCal.MainActivity, shoppingCal;md51187119aca768466e8dd7787ee3e1941.MainActivity
+shoppingCal.MainActivity, shoppingCal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51187119aca768466e8dd7787ee3e1941.MainActivity
+shoppingCal.MainActivity;md51187119aca768466e8dd7787ee3e1941.MainActivity
+shoppingcal.MainActivity;md51187119aca768466e8dd7787ee3e1941.MainActivity

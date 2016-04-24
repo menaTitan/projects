@@ -1,0 +1,138 @@
+1
+P	EAA5_HUMAN_AA
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+S
+P	CISY_EMENI_DNA
+O	CISY_EMENI_DNA
+S
+O	CISY_EMENI_RNA
+S
+O	P3C2A_HUMAN_RNA
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+D	O00197_HUMAN_DNA	1	ctcatcacgtcctcatggatcgagaactcgaaagtgtttgtgaaaagctatccaagtactga	62	14
+S
+P	O00197_HUMAN_DNA
+O	O00197_HUMAN_DNA
+S
+O	CISY_EMENI_DNA
+O	CISY_EMENI_DNA
+P	P3C2A_HUMAN_RNA
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+R	O00197_HUMAN_RNA	11	auggaucgagaacucgaaaguguuugugaaaagcuauccaaguac	45	mRNA
+A	MGR8_HUMAN_AA	231	MLLVTKFLPTLFGSAARSVFLLPHLHLS	28	0
+S
+P	O00197_HUMAN_RNA
+O	O00197_HUMAN_RNA
+S
+O	P3C2A_HUMAN_DNA
+O	MGR8_HUMAN_AA
+S
+O	CISY_EMENI_DNA
+P	O00197_HUMAN_RNA
+D	MGR8_HUMAN_DNA	31	ttgaactgagattgcgagcgcgaaggcgcacacatgctcctagttacaaaattcttgccaaccctcttcggtagcgcggcacgtagcgtgtttttactgccccatttgcacctctcgtag	120	33
+R	O00197_HUMAN_RNA	11	auggaucgagaacucgaaaguguuugugaaaagcuauccaaguac	45	mRNA
+D	PK3CD_HUMAN_DNA	73	cttgtgacgatatccttgattgaggcattggagacgtatggtcactgaccgaagaccaagaccaggaaatccaagatcgacattgggcgtgaagctgctttaa	103	37
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+S
+P	O00197_HUMAN_RNA
+O	MGR8_HUMAN_DNA
+S
+O	O00197_HUMAN_RNA
+O	CISY_EMENI_DNA
+O	PK3CD_HUMAN_DNA
+S
+O	HS90A_PIG_DNA
+S
+S
+O	EAA5_HUMAN_DNA
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+D	EAA5_HUMAN_DNA	65	tcaaatttcgcaaaggtaaggggatgacgaaatgccaatcggtgcggtatcttcagcaccacccaggcctcaaaaagtcgacatcgggcgtaggatgggctag	103	31
+D	PK3CD_HUMAN_DNA	73	cttgtgacgatatccttgattgaggcattggagacgtatggtcactgaccgaagaccaagaccaggaaatccaagatcgacattgggcgtgaagctgctttaa	103	37
+A	MGR8_HUMAN_AA	231	MLLVTKFLPTLFGSAARSVFLLPHLHLS	28	0
+D	O00197_HUMAN_DNA	1	ctcatcacgtcctcatggatcgagaactcgaaagtgtttgtgaaaagctatccaagtactga	62	14
+S
+P	PK3CD_HUMAN_DNA
+O	O00197_HUMAN_DNA
+O	MGR8_HUMAN_AA
+O	EAA5_HUMAN_DNA
+O	CISY_EMENI_DNA
+S
+O	MGR8_HUMAN_DNA
+S
+O	PK3CD_HUMAN_DNA
+P	MGR8_HUMAN_DNA
+A	PK3CD_HUMAN_AA	273	MVTDRRPRPGNPRSTLGVKLL	21	-2
+D	P3C2A_HUMAN_DNA	86	cagaccatgattcctcctgtggcttatcatacaactcacagagatatggatcccgaaatacgttactga	69	6
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+A	O00197_HUMAN_AA	21	MDRELESVCEKLSKY	15	-1
+R	MGR8_HUMAN_RNA	131	augcuccuaguuacaaaauucuugccaacccucuucgguagcgcggcacguagcguguuuuuacugccccauuugcaccucucg	84	tRNA
+A	EAA5_HUMAN_AA	265	MPIGAVSSAPPRPQKVDIGRRMG	23	1
+S
+P	P3C2A_HUMAN_DNA
+O	MGR8_HUMAN_RNA
+O	EAA5_HUMAN_AA
+O	O00197_HUMAN_AA
+O	HS90A_PIG_DNA
+O	P3C2A_HUMAN_DNA
+S
+O	PK3CD_HUMAN_AA
+O	CISY_EMENI_DNA
+S
+S
+O	HS90A_PIG_RNA
+A	DPYL2_BOVIN_AA	248	MDPCRYISAKRRTFG	15	2
+D	MGR8_HUMAN_DNA	31	ttgaactgagattgcgagcgcgaaggcgcacacatgctcctagttacaaaattcttgccaaccctcttcggtagcgcggcacgtagcgtgtttttactgccccatttgcacctctcgtag	120	33
+A	CISY_EMENI_AA	220	MKLLDWAGTNAICC	14	-1
+A	P3C2A_HUMAN_AA	286	MIPPVAYHTTHRDMDPEIRY	20	-3
+A	EAA5_HUMAN_AA	265	MPIGAVSSAPPRPQKVDIGRRMG	23	1
+D	O00197_HUMAN_DNA	1	ctcatcacgtcctcatggatcgagaactcgaaagtgtttgtgaaaagctatccaagtactga	62	14
+A	PK3CD_HUMAN_AA	273	MVTDRRPRPGNPRSTLGVKLL	21	-2
+S
+P	DPYL2_BOVIN_AA
+O	CISY_EMENI_RNA
+O	O00197_HUMAN_DNA
+O	P3C2A_HUMAN_AA
+O	MGR8_HUMAN_DNA
+O	PK3CD_HUMAN_AA
+O	EAA5_HUMAN_AA
+O	CISY_EMENI_AA
+S
+O	DPYL2_BOVIN_AA
+O	O00197_HUMAN_AA
+A	PK3CD_HUMAN_AA	273	MVTDRRPRPGNPRSTLGVKLL	21	-2
+A	EAA5_HUMAN_AA	265	MPIGAVSSAPPRPQKVDIGRRMG	23	1
+R	HS90A_PIG_RNA	122	auguccaacggcacaccuaaauac	24	tRNA
+R	MGR8_HUMAN_RNA	131	augcuccuaguuacaaaauucuugccaacccucuucgguagcgcggcacguagcguguuuuuacugccccauuugcaccucucg	84	tRNA
+D	DPYL2_BOVIN_DNA	48	tcattgtgtcgctggcggggacacgcacccacatggacccttgcagatatatctcagcaaagaggcgcacctttggatag	80	32
+D	CISY_EMENI_DNA	20	atgatatgaagttgttagactgggccggcacgaatgcaatttgctgctag	50	5
+A	P3C2A_HUMAN_AA	286	MIPPVAYHTTHRDMDPEIRY	20	-3
+D	O00197_HUMAN_DNA	1	ctcatcacgtcctcatggatcgagaactcgaaagtgtttgtgaaaagctatccaagtactga	62	14
+S
+P	P3C2A_HUMAN_AA
+O	PK3CD_HUMAN_AA
+O	DPYL2_BOVIN_DNA
+O	CISY_EMENI_DNA
+S
+O	P3C2A_HUMAN_AA
+S
+O	MGR8_HUMAN_RNA
+S
+O	O00197_HUMAN_DNA
+O	EAA5_HUMAN_AA
+S
+O	DPYL2_BOVIN_DNA
+O	HS90A_PIG_RNA
+S
+O	P3C2A_HUMAN_RNA
+R	CISY_EMENI_RNA	120	augaaguuguuagacugggccggcacgaaugcaauuugcugc	42	tRNA
+R	O00197_HUMAN_RNA	11	auggaucgagaacucgaaaguguuugugaaaagcuauccaaguac	45	mRNA
+D	DPYL2_BOVIN_DNA	48	tcattgtgtcgctggcggggacacgcacccacatggacccttgcagatatatctcagcaaagaggcgcacctttggatag	80	32
+A	MGR8_HUMAN_AA	231	MLLVTKFLPTLFGSAARSVFLLPHLHLS	28	0
+D	O04138_ORYSA_DNA	85	tataggcacatattgagtaatgcgcatgcgagaaaaagctaaacactaa	49	19
+A	P3C2A_HUMAN_AA	286	MIPPVAYHTTHRDMDPEIRY	20	-3
+A	EAA5_HUMAN_AA	265	MPIGAVSSAPPRPQKVDIGRRMG	23	1
+D	HS90A_PIG_DNA	22	acggtgctgaacgcaatgtccaacggcacacctaaatactaa	42	15
+D	PK3CD_HUMAN_DNA	73	cttgtgacgatatccttgattgaggcattggagacgtatggtcactgaccgaagaccaagaccaggaaatccaagatcgacattgggcgtgaagctgctttaa	103	37
+S
+P	CISY_EMENI_RNA
+P	P3C2A_HUMAN_AA

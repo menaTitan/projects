@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{CBEE631A-B94B-4CDA-8EFB-BD5360817403}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared1.Shared", "Shared1\Shared1.Shared\Shared1.Shared.vcxitems", "{1DBF2622-9CF5-4758-B7C8-FA8285DBDB93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared1.Android.Application", "Shared1.Android.Application", "{A3C41A4E-C2AC-4214-ACBC-8AEF28C69D6A}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1DBF2622-9CF5-4758-B7C8-FA8285DBDB93} = {CBEE631A-B94B-4CDA-8EFB-BD5360817403}
+	EndGlobalSection
+EndGlobal

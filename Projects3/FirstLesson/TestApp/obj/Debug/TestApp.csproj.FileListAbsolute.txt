@@ -1,0 +1,8 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\bin\Debug\TestApp.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\bin\Debug\FirstLesson.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\bin\Debug\FirstLesson.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\obj\Debug\TestApp.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\FirstLesson\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,16 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\bin\Debug\App1.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\bin\Debug\App1.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\App1.dll
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\App1.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\res\drawable\icon.png
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\R.cs.flag
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\res\layout\listview_row.xml
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\obj\Debug\App1.dll.mdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\App1\App1\bin\Debug\App1.dll.mdb

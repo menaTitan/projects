@@ -1,0 +1,6 @@
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\inheritanceInScharp\inheritanceInScharp\bin\Debug\inheritanceInScharp.exe.config
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\inheritanceInScharp\inheritanceInScharp\bin\Debug\inheritanceInScharp.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\inheritanceInScharp\inheritanceInScharp\bin\Debug\inheritanceInScharp.pdb
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\inheritanceInScharp\inheritanceInScharp\obj\Debug\inheritanceInScharp.csprojResolveAssemblyReference.cache
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\inheritanceInScharp\inheritanceInScharp\obj\Debug\inheritanceInScharp.exe
+C:\Users\Mena\Documents\Visual Studio 2015\Projects\inheritanceInScharp\inheritanceInScharp\obj\Debug\inheritanceInScharp.pdb
