@@ -1,0 +1,49 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LocationAndMaps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    x:Class="LocationAndMaps.MainPage"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="20,50,20,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+
+        <Maps:MapControl Name="MyMap" />
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <Button x:ConnectionId='2' Name="hole1Button" 
+                    Content="Hole 1" 
+                                          />
+            <Button x:ConnectionId='3' Name="hole3Button" 
+                    Content="Hole 3" 
+                                         Width="100"  Margin="10,5,10,0" />
+            <Button x:ConnectionId='4' Name="setPositionButton" 
+                    Content="Set" Width="30"
+                                                    
+                    Margin="10,-4,20,-3" />
+
+        </StackPanel>
+
+        <TextBlock Name="positionTextBlock" 
+                   Grid.Row="2"
+                   FontSize="22" />
+
+        <Slider x:ConnectionId='1' Name="mySlider"
+            Maximum="20" 
+                Minimum="10"
+                                                   
+                Grid.Row="3"
+                />
+        
+    </Grid>
+</Page>
+

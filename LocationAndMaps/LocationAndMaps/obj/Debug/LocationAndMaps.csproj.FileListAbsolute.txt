@@ -1,0 +1,96 @@
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.exe
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.pdb
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\LocationAndMaps.exe
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\LocationAndMaps.pdb
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\LocationAndMaps\LocationAndMaps\obj\Debug\ProjectArchitectures.txt
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\App.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\MainPage.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.xr.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.exe
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.pdb
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\resources.pri
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\AppxManifest.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.build.appxrecipe
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\App.g.i.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\App.g.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.g.i.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.g.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\XamlTypeInfo.g.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\App.xaml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.xaml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\App.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\XamlSaveStateFile.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\LocationAndMaps.exe
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\LocationAndMaps.pdb
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\priconfig.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\priconfig.xml.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\layout.resfiles
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\layout.resfiles.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\resources.resfiles
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\resources.resfiles.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\pri.resfiles
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\pri.resfiles.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\qualifiers.txt
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\qualifiers.txt.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\Lesson27_Code\LocationAndMaps\LocationAndMaps\obj\Debug\ProjectArchitectures.txt
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\App.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\MainPage.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.xr.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.exe
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.pdb
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\resources.pri
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\AppxManifest.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\bin\Debug\LocationAndMaps.build.appxrecipe
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\App.g.i.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\App.g.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.g.i.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.g.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\XamlTypeInfo.g.cs
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\App.xaml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\App.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\XamlSaveStateFile.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.xaml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\MainPage.xbf
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\LocationAndMaps.exe
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\LocationAndMaps.pdb
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\priconfig.xml
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\priconfig.xml.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\layout.resfiles
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\layout.resfiles.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\resources.resfiles
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\resources.resfiles.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\pri.resfiles
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\pri.resfiles.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\qualifiers.txt
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\qualifiers.txt.intermediate
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Middle Tennessee State University\Computer Lang Visual Program - CSCI-3037-001\Lab12\OLA12\LocationAndMaps\LocationAndMaps\obj\Debug\ProjectArchitectures.txt
